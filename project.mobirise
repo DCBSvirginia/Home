@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-27_1716",
-    "currentPage": "index.html",
+    "currentPage": "Aboutus.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -43,16 +43,25 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 24,
+    "uniqCompNum": 32,
     "versionPublish": "5.0.29",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "sitemapSwitcher": true,
+    "siteUrl": "https://dcblindsandshades.com",
+    "sitemapSwitcherAuto": "on",
+    "google-analytics": "Premier source for all window treatments, establishing in north of virginia, cover most washinton DC an Maryland area, we provide our costumer with High - Quality windows treatments and custom motorized blinds & shades to all industries for any DC area windows we also specialize in motorized treatments by the top manufactures.\ninstalation & Maintenance\nMotorized Blinds\nWood Blinds\nBambu Shades\nDesigner Blinds\nString Blinds\nRoman Shades\nHoneycomb Shades\nRoller Blinds\nMeasuring\nRoller window\nZebra Blinds",
+    "favicon": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "DC Blinds & Shades",
+        "meta_descr": "Premier source for all window treatments, establishing in north of virginia, cover most washinton DC an Maryland area, we provide our costumer with High - Quality windows treatments and custom motorized blinds & shades to all industries for any DC area windows we also specialize in motorized treatments by the top manufactures.\ninstalation & Maintenance\nMotorized Blinds\nWood Blinds\nBambu Shades\nDesigner Blinds\nString Blinds\nRoman Shades\nHoneycomb Shades\nRoller Blinds\nMeasuring\nRoller window\nZebra Blinds",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1151,8 +1160,9 @@
     },
     "Aboutus.html": {
       "settings": {
-        "title": "About us",
-        "order": 1
+        "title": "About us - DC Blinds & Shades",
+        "order": 2,
+        "meta_descr": "Premier source for all window treatments, establishing in north of virginia, cover most washinton DC an Maryland area, we provide our costumer with High - Quality windows treatments and custom motorized blinds & shades to all industries for any DC area windows we also specialize in motorized treatments by the top manufactures.\ninstalation & Maintenance\nMotorized Blinds\nWood Blinds\nBambu Shades\nDesigner Blinds\nString Blinds\nRoman Shades\nHoneycomb Shades\nRoller Blinds\nMeasuring\nRoller window\nZebra Blinds"
       },
       "components": [
         {
